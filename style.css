@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+    font-family: monospace;
+    font-size: 600%;
+
+}
+p  {
+    color: red;
+    font-family: Comic Sans MS;
+    font-size: 160%;
+}
+
+th  {
+    color: black;
+    font-family: Arial Black;
+    font-size: 130%;
+}
+
+td  {
+    color: black;
+    font-family: Trebuchet MS;
+    font-size: 100%;
+}
+
+
+table, th, td {
+    border: 2px solid black;
+}
+
